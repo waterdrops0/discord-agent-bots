@@ -10,7 +10,7 @@ load_dotenv()
 DISCORD_TOKEN = os.getenv('DISCORD_PRENOTES_TOKEN')
 
 # Set the n8n webhook URL
-N8N_ENDPOINT = "https://waterdrops.app.n8n.cloud/webhook/pre-notes"
+N8N_ENDPOINT = os.getenv('N8N_PRENOTES_WEBHOOK')
 
 # Set up intents
 intents = discord.Intents.default()
