@@ -1,4 +1,3 @@
-### Discord Bots Project
 
 This repo contains three AI-powered Discord bots:
 
