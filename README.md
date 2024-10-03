@@ -2,7 +2,7 @@
 
 This repo contains three AI-powered Discord bots:
 
-- **feedback.py**: Processes proposals and provides AI generated feedback `!feedback`.
+- **feedback.py**: Processes proposals and provides feedback `!feedback`.
 - **pre-notes.py**: Handles pre-notes `!pre-notes`.
 - **notes.py**: Handles notes with `!notes`
 
